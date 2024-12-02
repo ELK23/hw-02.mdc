@@ -24,14 +24,23 @@
 
 ### Задание 1
 
-`https://github.com/ELK23/netology/commit/ed430277bc094b015300b6f704b6859e51d061da`
+![image](https://github.com/user-attachments/assets/c9de195d-2e3f-4f44-a1b3-9d241bd71071)
+
+![image](https://github.com/user-attachments/assets/3156e964-ae37-4a97-aaff-17af4edbd8f6)
+
+platform idv4 не существует, заменен на v1, 1cpu выделить не возможно, выделены 2
+Ответьте, как в процессе обучения могут пригодиться параметры preemptible = true и core_fraction=5 в параметрах ВМ
+preemptible позволяет уменьшить приоритет vm и платить меньше, core_fraction делает cpu слабее, что тоже экономит деньги
+
+
 
 
 ---
 
-### Задание 2
+### Задание 4
 
-`https://github.com/ELK23/netology/commit/5a7613b1f18b843af7dfd0d8c60dc76beae9ea32`
+![image](https://github.com/user-attachments/assets/8d80d926-e6d5-4933-95c9-7a30ba19992e)
+
 
 
 ---
